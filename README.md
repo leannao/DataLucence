@@ -1,3 +1,5 @@
+# Note: The DataLucence course is no longer being developed in this repo. Please see https://github.com/DataLucence/images for recent progress
+
 # DataLucence
 
 An introduction to image processing for graduate students in neuroscience.
